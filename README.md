@@ -69,6 +69,7 @@ Augmented Data: books_augmented.csv and books_features.csv.
 The models/ directory contains various scripts and notebooks for implementing and optimizing recommendation models. The structure includes:
 
 **.py files**: These Python scripts focus on parameter optimization, such as grid search for tuning hyperparameters like alpha, thresholds, and top-k selection.
+
 **.ipynb files**: These Jupyter notebooks are primarily for demonstration and straightforward execution of models without parameter tuning. You can run them directly on platforms like Kaggle for quicker experiments.
 
 ### **Hybrid Methods**
