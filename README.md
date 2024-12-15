@@ -33,7 +33,7 @@ Before running the scripts, ensure that you update the paths to match the actual
 │   ├── models/                        # Recommendation models
 │   │   ├── gnn/                       # Graph Neural Network models
 │   │   ├── hybrid methods/            # Hybrid recommendation systems
-│   │   ├── matrix_factorization/      # SVD method
+│   │   ├── matrix_factorization/      # matrix_factorization
 │   │   ├── ml/                        # Machine learning-based models
 │   │   └── traditional methods/       # User-based models and item-based models
 │   │
