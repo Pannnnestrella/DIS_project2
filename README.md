@@ -46,7 +46,7 @@ Before running the scripts, ensure that you update the paths to match the actual
 ├── README.md                          # Project documentation
 └── requirements.txt                   # Python dependencies
 
----
+```
 
 ## **Data Sources**
 The following datasets are used in this project,
