@@ -9,6 +9,8 @@ Before running the scripts, ensure that you update the paths to match the actual
 ---
 
 ## **Project Structure**
+
+```text
 .
 ├── data/                              
 │   ├── books.csv                     
@@ -21,7 +23,7 @@ Before running the scripts, ensure that you update the paths to match the actual
 │
 ├── src/                               
 │   ├── data analysis/                 # Exploratory Data Analysis
-│   │   ├── distribution_analysis.py   # Related to book, comparision of distribution for train set and test set
+│   │   ├── distribution_analysis.py   # Related to book, comparison of distribution for train set and test set
 │   │   └── exploratory_data_analysis.ipynb  # Focus on user rating distribution 
 │   │
 │   ├── feature_engineering/           # Feature engineering scripts
@@ -31,9 +33,9 @@ Before running the scripts, ensure that you update the paths to match the actual
 │   ├── models/                        # Recommendation models
 │   │   ├── gnn/                       # Graph Neural Network models
 │   │   ├── hybrid methods/            # Hybrid recommendation systems
-│   │   ├── matrix_factorization/        # SVD method
-│   │   ├── ml/                          # Machine learning-based models
-│   │   └── traditional methods/         # user-based models and item-based models
+│   │   ├── matrix_factorization/      # SVD method
+│   │   ├── ml/                        # Machine learning-based models
+│   │   └── traditional methods/       # User-based models and item-based models
 │   │
 │   └── plots/                         # Visualizations created by distribution_analysis.py
 │       ├── book_avg_rating_distribution.png
@@ -42,7 +44,8 @@ Before running the scripts, ensure that you update the paths to match the actual
 │       └── user_std_rating_distribution.png
 │
 ├── README.md                          # Project documentation
-├── requirements.txt                   # Python dependencies
+└── requirements.txt                   # Python dependencies
+
 
 ## **Data Sources**
 The following datasets are used in this project,
