@@ -2,7 +2,7 @@
 
 This repository implements a book recommendation system based on collaborative filtering, machine learning, and feature engineering approaches. It includes data preprocessing, analysis, modeling, and result visualization.
 
-Important Notice:
+**Important Notice:**
 Due to time constraints during the final integration phase, some file paths and folder names in the scripts and notebooks may still use temporary or placeholder names.
 Before running the scripts, ensure that you update the paths to match the actual structure of your local environment.
 
